@@ -1,0 +1,6 @@
+// My decision tree
+digraph {
+	A [label=Jacob]
+	B [label=Eirik]
+	A -> B
+}
